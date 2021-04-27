@@ -1,0 +1,64 @@
+"country","year","sector","subsector","species","mgmt","animal","pollutant","units","value"
+"Nigeria",2018,"livestock","enteric fermentation","cattle",NA,NA,"CH4","kg y-1",840134429.433138
+"Nigeria",2018,"livestock","enteric fermentation","sheep",NA,NA,"CH4","kg y-1",547850245.344639
+"Nigeria",2018,"livestock","enteric fermentation","pig",NA,NA,"CH4","kg y-1",4731263.94285027
+"Nigeria",2018,"livestock","enteric fermentation","chicken",NA,NA,"CH4","kg y-1",0
+"Nigeria",2018,"livestock","manure management","cattle",NA,NA,"CH4","kg y-1",31240745.4899592
+"Nigeria",2018,"livestock","manure management","sheep",NA,NA,"CH4","kg y-1",24950323.1988795
+"Nigeria",2018,"livestock","manure management","pig",NA,NA,"CH4","kg y-1",75378557.0851166
+"Nigeria",2018,"livestock","manure management","chicken",NA,NA,"CH4","kg y-1",9248682.13609557
+"Nigeria",2018,"livestock","manure management","cattle",NA,NA,"N2O","kg y-1",12127504.3887785
+"Nigeria",2018,"livestock","manure management","sheep",NA,NA,"N2O","kg y-1",2782673.3866754
+"Nigeria",2018,"livestock","manure management","pig",NA,NA,"N2O","kg y-1",997513.341169737
+"Nigeria",2018,"livestock","manure management","chicken",NA,NA,"N2O","kg y-1",710443.88347736
+"Nigeria",2018,"livestock","manure management","cattle",NA,NA,"NH3","kg y-1",117235550.908184
+"Nigeria",2018,"livestock","manure management","sheep",NA,NA,"NH3","kg y-1",27289310.5141742
+"Nigeria",2018,"livestock","manure management","pig",NA,NA,"NH3","kg y-1",20070587.6219794
+"Nigeria",2018,"livestock","manure management","chicken",NA,NA,"NH3","kg y-1",11038646.7699312
+"Nigeria",2018,"livestock","manure management","cattle",NA,NA,"NO","kg y-1",6583795.80036385
+"Nigeria",2018,"livestock","manure management","sheep",NA,NA,"NO","kg y-1",1224572.77138281
+"Nigeria",2018,"livestock","manure management","pig",NA,NA,"NO","kg y-1",667507.683797903
+"Nigeria",2018,"livestock","manure management","chicken",NA,NA,"NO","kg y-1",867324.632538579
+"Nigeria",2018,"crops","manure application",NA,NA,NA,"NH3","kg y-1",93092601.343789
+"Nigeria",2018,"crops","manure application",NA,NA,NA,"N2O","kg y-1",11803632.2991565
+"Nigeria",2018,"crops","manure application",NA,NA,NA,"NO","kg y-1",21806982.345288
+"Nigeria",2018,"crops","synthetic fertiliser application",NA,NA,NA,"NH3","kg y-1",0
+"Nigeria",2018,"crops","synthetic fertiliser application",NA,NA,NA,"N2O","kg y-1",3777197.69837506
+"Nigeria",2018,"crops","synthetic fertiliser application",NA,NA,NA,"NO","kg y-1",7848324.552518
+"Nigeria",2018,"pasture","graze",NA,NA,NA,"NH3","kg y-1",78269016.7541979
+"Nigeria",2018,"pasture","graze",NA,NA,NA,"N2O","kg y-1",17494876.5203396
+"Nigeria",2018,"pasture","graze",NA,NA,NA,"NO","kg y-1",33911270.6996681
+"Nigeria",2018,"crops","crop residue burning",NA,NA,NA,"CO","kg y-1",372853209.824049
+"Nigeria",2018,"crops","crop residue burning",NA,NA,NA,"NOx","kg y-1",14287240.0244212
+"Nigeria",2018,"crops","crop residue burning",NA,NA,NA,"SO2","kg y-1",2348470.02132804
+"Nigeria",2018,"crops","crop residue burning",NA,NA,NA,"NMVOC","kg y-1",19527656.5191364
+"Nigeria",2018,"crops","crop residue burning",NA,NA,NA,"NH3","kg y-1",15750670.0692212
+"Nigeria",2018,"crops","crop residue burning",NA,NA,NA,"PM10","kg y-1",38511631.4159947
+"Nigeria",2018,"crops","crop residue burning",NA,NA,NA,"PM2.5","kg y-1",36733891.8700264
+"Nigeria",2018,"crops","crop residue burning",NA,NA,NA,"BC","kg y-1",3759125.12946529
+"Nigeria",2018,"crops","crop residue burning",NA,NA,NA,"OC","kg y-1",21657171.3451792
+"Nigeria",2018,"crops","crop residue burning",NA,NA,NA,"CH4","kg y-1",17719503.8278739
+"Nigeria",2018,"crops","methane from rice production",NA,NA,NA,"CH4","kg y-1",876793329.371766
+"Nigeria",2018,"crops","machinery diesel consumption",NA,NA,NA,"CO2","kg y-1",2831222741.256
+"Nigeria",2018,"crops","machinery diesel consumption",NA,NA,NA,"CO","kg y-1",4967057.4408
+"Nigeria",2018,"crops","machinery diesel consumption",NA,NA,NA,"NOx","kg y-1",35992062.37872
+"Nigeria",2018,"crops","machinery diesel consumption",NA,NA,NA,"SO2","kg y-1",0
+"Nigeria",2018,"crops","machinery diesel consumption",NA,NA,NA,"NMVOC","kg y-1",1910406.708
+"Nigeria",2018,"crops","machinery diesel consumption",NA,NA,NA,"NH3","kg y-1",0
+"Nigeria",2018,"crops","machinery diesel consumption",NA,NA,NA,"PM10","kg y-1",3667980.87936
+"Nigeria",2018,"crops","machinery diesel consumption",NA,NA,NA,"PM2.5","kg y-1",3667980.87936
+"Nigeria",2018,"crops","machinery diesel consumption",NA,NA,NA,"BC","kg y-1",1528325.3664
+"Nigeria",2018,"crops","machinery diesel consumption",NA,NA,NA,"OC","kg y-1",1069827.75648
+"Nigeria",2018,"crops","machinery diesel consumption",NA,NA,NA,"CH4","kg y-1",382081.3416
+"Nigeria",2018,"crops","ammonia production energy",NA,NA,NA,"CO2","kg y-1",2388951335005.74
+"Nigeria",2018,"crops","ammonia production energy",NA,NA,NA,"CO","kg y-1",17066417406.3202
+"Nigeria",2018,"crops","ammonia production energy",NA,NA,NA,"NOx","kg y-1",4016554214.01571
+"Nigeria",2018,"crops","ammonia production energy",NA,NA,NA,"SO2","kg y-1",0
+"Nigeria",2018,"crops","ammonia production energy",NA,NA,NA,"NMVOC","kg y-1",1877085839.55803
+"Nigeria",2018,"crops","ammonia production energy",NA,NA,NA,"NH3","kg y-1",0
+"Nigeria",2018,"crops","ammonia production energy",NA,NA,NA,"PM10","kg y-1",2109470896.09859
+"Nigeria",2018,"crops","ammonia production energy",NA,NA,NA,"PM2.5","kg y-1",1947943063.81544
+"Nigeria",2018,"crops","ammonia production energy",NA,NA,NA,"BC","kg y-1",124207584.612634
+"Nigeria",2018,"crops","ammonia production energy",NA,NA,NA,"OC","kg y-1",96530217.4583464
+"Nigeria",2018,"crops","ammonia production energy",NA,NA,NA,"CH4","kg y-1",191794697.94398
+"Nigeria",2018,"crops","nitric acid production",NA,NA,NA,"N2O","kg y-1",267773.675283232

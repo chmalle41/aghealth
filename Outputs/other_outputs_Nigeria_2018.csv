@@ -1,0 +1,533 @@
+"country","year","sector","subsector","variable","units","value"
+"Nigeria",2018,"Apples and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Apples and products",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Apples and products",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Apples and products",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Apples and products",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Apples and products",NA,"land area","ha",0
+"Nigeria",2018,"Apples and products",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Apples and products",NA,"NUE","fraction",NA
+"Nigeria",2018,"Apples and products",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Bananas",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Bananas",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Bananas",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Bananas",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Bananas",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Bananas",NA,"land area","ha",0
+"Nigeria",2018,"Bananas",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Bananas",NA,"NUE","fraction",NA
+"Nigeria",2018,"Bananas",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Barley and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Barley and products",NA,"above ground residue","kg y-1",590
+"Nigeria",2018,"Barley and products",NA,"below ground residue","kg y-1",129.8
+"Nigeria",2018,"Barley and products",NA,"total residue burned","kg y-1",147.5
+"Nigeria",2018,"Barley and products",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Barley and products",NA,"land area","ha",0
+"Nigeria",2018,"Barley and products",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Barley and products",NA,"NUE","fraction",NA
+"Nigeria",2018,"Barley and products",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Beans",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Beans",NA,"above ground residue","kg y-1",324680
+"Nigeria",2018,"Beans",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Beans",NA,"total residue burned","kg y-1",81170
+"Nigeria",2018,"Beans",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Beans",NA,"land area","ha",0
+"Nigeria",2018,"Beans",NA,"N surplus","kg N y-1",-Inf
+"Nigeria",2018,"Beans",NA,"NUE","fraction",Inf
+"Nigeria",2018,"Beans",NA,"ymax","kg N y-1",-Inf
+"Nigeria",2018,"Cassava and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Cassava and products",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Cassava and products",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Cassava and products",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Cassava and products",NA,"yield","kg ha-1 y-1",4583.24168516455
+"Nigeria",2018,"Cassava and products",NA,"land area","ha",6667820
+"Nigeria",2018,"Cassava and products",NA,"N surplus","kg N y-1",-638.212243573106
+"Nigeria",2018,"Cassava and products",NA,"NUE","fraction",30.3099961711252
+"Nigeria",2018,"Cassava and products",NA,"ymax","kg N y-1",-9171698.13799926
+"Nigeria",2018,"Cereals, Other",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Cereals, Other",NA,"above ground residue","kg y-1",79334538.906514
+"Nigeria",2018,"Cereals, Other",NA,"below ground residue","kg y-1",17453598.5594331
+"Nigeria",2018,"Cereals, Other",NA,"total residue burned","kg y-1",19833634.7266285
+"Nigeria",2018,"Cereals, Other",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Cereals, Other",NA,"land area","ha",0
+"Nigeria",2018,"Cereals, Other",NA,"N surplus","kg N y-1",-Inf
+"Nigeria",2018,"Cereals, Other",NA,"NUE","fraction",Inf
+"Nigeria",2018,"Cereals, Other",NA,"ymax","kg N y-1",-Inf
+"Nigeria",2018,"Citrus, Other",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Citrus, Other",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Citrus, Other",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Citrus, Other",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Citrus, Other",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Citrus, Other",NA,"land area","ha",0
+"Nigeria",2018,"Citrus, Other",NA,"N surplus","kg N y-1",-Inf
+"Nigeria",2018,"Citrus, Other",NA,"NUE","fraction",Inf
+"Nigeria",2018,"Citrus, Other",NA,"ymax","kg N y-1",-Inf
+"Nigeria",2018,"Cocoa Beans and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Cocoa Beans and products",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Cocoa Beans and products",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Cocoa Beans and products",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Cocoa Beans and products",NA,"yield","kg ha-1 y-1",265.18537237486
+"Nigeria",2018,"Cocoa Beans and products",NA,"land area","ha",1282122
+"Nigeria",2018,"Cocoa Beans and products",NA,"N surplus","kg N y-1",-147.944079229321
+"Nigeria",2018,"Cocoa Beans and products",NA,"NUE","fraction",7.7943547611608
+"Nigeria",2018,"Cocoa Beans and products",NA,"ymax","kg N y-1",-546734.522871682
+"Nigeria",2018,"Coconut Oil",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Coconut Oil",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Coconut Oil",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Coconut Oil",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Coconut Oil",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Coconut Oil",NA,"land area","ha",0
+"Nigeria",2018,"Coconut Oil",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Coconut Oil",NA,"NUE","fraction",NA
+"Nigeria",2018,"Coconut Oil",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Coconuts - Incl Copra",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Coconuts - Incl Copra",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Coconuts - Incl Copra",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Coconuts - Incl Copra",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Coconuts - Incl Copra",NA,"yield","kg ha-1 y-1",9264.27197443924
+"Nigeria",2018,"Coconuts - Incl Copra",NA,"land area","ha",30672
+"Nigeria",2018,"Coconuts - Incl Copra",NA,"N surplus","kg N y-1",-2498.10741795688
+"Nigeria",2018,"Coconuts - Incl Copra",NA,"NUE","fraction",115.725970228098
+"Nigeria",2018,"Coconuts - Incl Copra",NA,"ymax","kg N y-1",-137069452.838449
+"Nigeria",2018,"Coffee and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Coffee and products",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Coffee and products",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Coffee and products",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Coffee and products",NA,"yield","kg ha-1 y-1",0
+"Nigeria",2018,"Coffee and products",NA,"land area","ha",901
+"Nigeria",2018,"Coffee and products",NA,"N surplus","kg N y-1",21.7745590905891
+"Nigeria",2018,"Coffee and products",NA,"NUE","fraction",0
+"Nigeria",2018,"Coffee and products",NA,"ymax","kg N y-1",0
+"Nigeria",2018,"Cottonseed Oil",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Cottonseed Oil",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Cottonseed Oil",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Cottonseed Oil",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Cottonseed Oil",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Cottonseed Oil",NA,"land area","ha",0
+"Nigeria",2018,"Cottonseed Oil",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Cottonseed Oil",NA,"NUE","fraction",NA
+"Nigeria",2018,"Cottonseed Oil",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Dates",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Dates",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Dates",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Dates",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Dates",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Dates",NA,"land area","ha",0
+"Nigeria",2018,"Dates",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Dates",NA,"NUE","fraction",NA
+"Nigeria",2018,"Dates",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Fruits, Other",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Fruits, Other",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Fruits, Other",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Fruits, Other",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Fruits, Other",NA,"yield","kg ha-1 y-1",18768.4597274738
+"Nigeria",2018,"Fruits, Other",NA,"land area","ha",168204
+"Nigeria",2018,"Fruits, Other",NA,"N surplus","kg N y-1",-1479.70221910732
+"Nigeria",2018,"Fruits, Other",NA,"NUE","fraction",68.9555536785514
+"Nigeria",2018,"Fruits, Other",NA,"ymax","kg N y-1",-48377376.7014601
+"Nigeria",2018,"Grapefruit and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Grapefruit and products",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Grapefruit and products",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Grapefruit and products",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Grapefruit and products",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Grapefruit and products",NA,"land area","ha",0
+"Nigeria",2018,"Grapefruit and products",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Grapefruit and products",NA,"NUE","fraction",NA
+"Nigeria",2018,"Grapefruit and products",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Grapes and products (excl wine)",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Grapes and products (excl wine)",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Grapes and products (excl wine)",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Grapes and products (excl wine)",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Grapes and products (excl wine)",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Grapes and products (excl wine)",NA,"land area","ha",0
+"Nigeria",2018,"Grapes and products (excl wine)",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Grapes and products (excl wine)",NA,"NUE","fraction",NA
+"Nigeria",2018,"Grapes and products (excl wine)",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Groundnut Oil",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Groundnut Oil",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Groundnut Oil",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Groundnut Oil",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Groundnut Oil",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Groundnut Oil",NA,"land area","ha",0
+"Nigeria",2018,"Groundnut Oil",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Groundnut Oil",NA,"NUE","fraction",NA
+"Nigeria",2018,"Groundnut Oil",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Groundnuts (Shelled Eq)",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Groundnuts (Shelled Eq)",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Groundnuts (Shelled Eq)",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Groundnuts (Shelled Eq)",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Groundnuts (Shelled Eq)",NA,"yield","kg ha-1 y-1",960.365542312166
+"Nigeria",2018,"Groundnuts (Shelled Eq)",NA,"land area","ha",3770015
+"Nigeria",2018,"Groundnuts (Shelled Eq)",NA,"N surplus","kg N y-1",-3927.24855089704
+"Nigeria",2018,"Groundnuts (Shelled Eq)",NA,"NUE","fraction",181.359498190454
+"Nigeria",2018,"Groundnuts (Shelled Eq)",NA,"ymax","kg N y-1",-337697179.382293
+"Nigeria",2018,"Lemons, Limes and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Lemons, Limes and products",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Lemons, Limes and products",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Lemons, Limes and products",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Lemons, Limes and products",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Lemons, Limes and products",NA,"land area","ha",0
+"Nigeria",2018,"Lemons, Limes and products",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Lemons, Limes and products",NA,"NUE","fraction",NA
+"Nigeria",2018,"Lemons, Limes and products",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Maize and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Maize and products",NA,"above ground residue","kg y-1",7643768507.37387
+"Nigeria",2018,"Maize and products",NA,"below ground residue","kg y-1",1681629071.62225
+"Nigeria",2018,"Maize and products",NA,"total residue burned","kg y-1",1910942126.84347
+"Nigeria",2018,"Maize and products",NA,"yield","kg ha-1 y-1",1251.44971551516
+"Nigeria",2018,"Maize and products",NA,"land area","ha",6816126
+"Nigeria",2018,"Maize and products",NA,"N surplus","kg N y-1",-1880.42900849246
+"Nigeria",2018,"Maize and products",NA,"NUE","fraction",87.35899356994
+"Nigeria",2018,"Maize and products",NA,"ymax","kg N y-1",-77886700.0701972
+"Nigeria",2018,"Maize Germ Oil",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Maize Germ Oil",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Maize Germ Oil",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Maize Germ Oil",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Maize Germ Oil",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Maize Germ Oil",NA,"land area","ha",0
+"Nigeria",2018,"Maize Germ Oil",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Maize Germ Oil",NA,"NUE","fraction",NA
+"Nigeria",2018,"Maize Germ Oil",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Millet and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Millet and products",NA,"above ground residue","kg y-1",2789011804.3077
+"Nigeria",2018,"Millet and products",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Millet and products",NA,"total residue burned","kg y-1",697252951.076925
+"Nigeria",2018,"Millet and products",NA,"yield","kg ha-1 y-1",806.700977516645
+"Nigeria",2018,"Millet and products",NA,"land area","ha",2686329
+"Nigeria",2018,"Millet and products",NA,"N surplus","kg N y-1",-1230.22535801524
+"Nigeria",2018,"Millet and products",NA,"NUE","fraction",57.4982901787869
+"Nigeria",2018,"Millet and products",NA,"ymax","kg N y-1",-33538091.4500238
+"Nigeria",2018,"Nuts and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Nuts and products",NA,"above ground residue","kg y-1",249355704.25
+"Nigeria",2018,"Nuts and products",NA,"below ground residue","kg y-1",49871140.8499999
+"Nigeria",2018,"Nuts and products",NA,"total residue burned","kg y-1",62338926.0624999
+"Nigeria",2018,"Nuts and products",NA,"yield","kg ha-1 y-1",1736.07172118233
+"Nigeria",2018,"Nuts and products",NA,"land area","ha",142803
+"Nigeria",2018,"Nuts and products",NA,"N surplus","kg N y-1",-1922.62576863362
+"Nigeria",2018,"Nuts and products",NA,"NUE","fraction",89.2968863174167
+"Nigeria",2018,"Nuts and products",NA,"ymax","kg N y-1",-81401013.8768615
+"Nigeria",2018,"Oats",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Oats",NA,"above ground residue","kg y-1",890
+"Nigeria",2018,"Oats",NA,"below ground residue","kg y-1",222.5
+"Nigeria",2018,"Oats",NA,"total residue burned","kg y-1",222.5
+"Nigeria",2018,"Oats",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Oats",NA,"land area","ha",0
+"Nigeria",2018,"Oats",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Oats",NA,"NUE","fraction",NA
+"Nigeria",2018,"Oats",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Oilcrops Oil, Other",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Oilcrops Oil, Other",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Oilcrops Oil, Other",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Oilcrops Oil, Other",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Oilcrops Oil, Other",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Oilcrops Oil, Other",NA,"land area","ha",0
+"Nigeria",2018,"Oilcrops Oil, Other",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Oilcrops Oil, Other",NA,"NUE","fraction",NA
+"Nigeria",2018,"Oilcrops Oil, Other",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Oilcrops, Other",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Oilcrops, Other",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Oilcrops, Other",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Oilcrops, Other",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Oilcrops, Other",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Oilcrops, Other",NA,"land area","ha",0
+"Nigeria",2018,"Oilcrops, Other",NA,"N surplus","kg N y-1",-Inf
+"Nigeria",2018,"Oilcrops, Other",NA,"NUE","fraction",Inf
+"Nigeria",2018,"Oilcrops, Other",NA,"ymax","kg N y-1",-Inf
+"Nigeria",2018,"Olive Oil",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Olive Oil",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Olive Oil",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Olive Oil",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Olive Oil",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Olive Oil",NA,"land area","ha",0
+"Nigeria",2018,"Olive Oil",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Olive Oil",NA,"NUE","fraction",NA
+"Nigeria",2018,"Olive Oil",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Olives (including preserved)",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Olives (including preserved)",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Olives (including preserved)",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Olives (including preserved)",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Olives (including preserved)",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Olives (including preserved)",NA,"land area","ha",0
+"Nigeria",2018,"Olives (including preserved)",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Olives (including preserved)",NA,"NUE","fraction",NA
+"Nigeria",2018,"Olives (including preserved)",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Onions",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Onions",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Onions",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Onions",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Onions",NA,"yield","kg ha-1 y-1",88815.6852180527
+"Nigeria",2018,"Onions",NA,"land area","ha",15776
+"Nigeria",2018,"Onions",NA,"N surplus","kg N y-1",-24136.0918202197
+"Nigeria",2018,"Onions",NA,"NUE","fraction",1109.45375650574
+"Nigeria",2018,"Onions",NA,"ymax","kg N y-1",-12696233292.298
+"Nigeria",2018,"Oranges, Mandarines",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Oranges, Mandarines",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Oranges, Mandarines",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Oranges, Mandarines",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Oranges, Mandarines",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Oranges, Mandarines",NA,"land area","ha",0
+"Nigeria",2018,"Oranges, Mandarines",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Oranges, Mandarines",NA,"NUE","fraction",NA
+"Nigeria",2018,"Oranges, Mandarines",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Palm Oil",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Palm Oil",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Palm Oil",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Palm Oil",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Palm Oil",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Palm Oil",NA,"land area","ha",0
+"Nigeria",2018,"Palm Oil",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Palm Oil",NA,"NUE","fraction",NA
+"Nigeria",2018,"Palm Oil",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Palmkernel Oil",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Palmkernel Oil",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Palmkernel Oil",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Palmkernel Oil",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Palmkernel Oil",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Palmkernel Oil",NA,"land area","ha",0
+"Nigeria",2018,"Palmkernel Oil",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Palmkernel Oil",NA,"NUE","fraction",NA
+"Nigeria",2018,"Palmkernel Oil",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Peas",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Peas",NA,"above ground residue","kg y-1",850
+"Nigeria",2018,"Peas",NA,"below ground residue","kg y-1",161.5
+"Nigeria",2018,"Peas",NA,"total residue burned","kg y-1",212.5
+"Nigeria",2018,"Peas",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Peas",NA,"land area","ha",0
+"Nigeria",2018,"Peas",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Peas",NA,"NUE","fraction",NA
+"Nigeria",2018,"Peas",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Pineapples and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Pineapples and products",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Pineapples and products",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Pineapples and products",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Pineapples and products",NA,"yield","kg ha-1 y-1",8425.59106530948
+"Nigeria",2018,"Pineapples and products",NA,"land area","ha",197567
+"Nigeria",2018,"Pineapples and products",NA,"N surplus","kg N y-1",-247.844354999314
+"Nigeria",2018,"Pineapples and products",NA,"NUE","fraction",12.382290404513
+"Nigeria",2018,"Pineapples and products",NA,"ymax","kg N y-1",-1455052.81244149
+"Nigeria",2018,"Plantains",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Plantains",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Plantains",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Plantains",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Plantains",NA,"yield","kg ha-1 y-1",6150.67793812957
+"Nigeria",2018,"Plantains",NA,"land area","ha",502922
+"Nigeria",2018,"Plantains",NA,"N surplus","kg N y-1",-765.512216989996
+"Nigeria",2018,"Plantains",NA,"NUE","fraction",36.1562671742386
+"Nigeria",2018,"Plantains",NA,"ymax","kg N y-1",-13123040.0015632
+"Nigeria",2018,"Potatoes and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Potatoes and products",NA,"above ground residue","kg y-1",28475962.5
+"Nigeria",2018,"Potatoes and products",NA,"below ground residue","kg y-1",5695192.5
+"Nigeria",2018,"Potatoes and products",NA,"total residue burned","kg y-1",7118990.625
+"Nigeria",2018,"Potatoes and products",NA,"yield","kg ha-1 y-1",3981.13188685745
+"Nigeria",2018,"Potatoes and products",NA,"land area","ha",325112
+"Nigeria",2018,"Potatoes and products",NA,"N surplus","kg N y-1",-997.395203944919
+"Nigeria",2018,"Potatoes and products",NA,"NUE","fraction",46.805529278248
+"Nigeria",2018,"Potatoes and products",NA,"ymax","kg N y-1",-22134166.6668429
+"Nigeria",2018,"Pulses",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Pulses",NA,"above ground residue","kg y-1",2909819921.25
+"Nigeria",2018,"Pulses",NA,"below ground residue","kg y-1",552865785.0375
+"Nigeria",2018,"Pulses",NA,"total residue burned","kg y-1",727454980.312499
+"Nigeria",2018,"Pulses",NA,"yield","kg ha-1 y-1",18928.2632543579
+"Nigeria",2018,"Pulses",NA,"land area","ha",149498
+"Nigeria",2018,"Pulses",NA,"N surplus","kg N y-1",-66605.7120962492
+"Nigeria",2018,"Pulses",NA,"NUE","fraction",3059.87764795367
+"Nigeria",2018,"Pulses",NA,"ymax","kg N y-1",-96630511091.2677
+"Nigeria",2018,"Rape and Mustard Oil",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Rape and Mustard Oil",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Rape and Mustard Oil",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Rape and Mustard Oil",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Rape and Mustard Oil",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Rape and Mustard Oil",NA,"land area","ha",0
+"Nigeria",2018,"Rape and Mustard Oil",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Rape and Mustard Oil",NA,"NUE","fraction",NA
+"Nigeria",2018,"Rape and Mustard Oil",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Rape and Mustardseed",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Rape and Mustardseed",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Rape and Mustardseed",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Rape and Mustardseed",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Rape and Mustardseed",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Rape and Mustardseed",NA,"land area","ha",0
+"Nigeria",2018,"Rape and Mustardseed",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Rape and Mustardseed",NA,"NUE","fraction",NA
+"Nigeria",2018,"Rape and Mustardseed",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Rice and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Rice and products",NA,"above ground residue","kg y-1",5932757526.90216
+"Nigeria",2018,"Rice and products",NA,"below ground residue","kg y-1",949241204.304346
+"Nigeria",2018,"Rice and products",NA,"total residue burned","kg y-1",1483189381.72554
+"Nigeria",2018,"Rice and products",NA,"yield","kg ha-1 y-1",1194.64076643978
+"Nigeria",2018,"Rice and products",NA,"land area","ha",5873615
+"Nigeria",2018,"Rice and products",NA,"N surplus","kg N y-1",-1869.65066721305
+"Nigeria",2018,"Rice and products",NA,"NUE","fraction",45.7557247261107
+"Nigeria",2018,"Rice and products",NA,"ymax","kg N y-1",-149289635.283815
+"Nigeria",2018,"Roots, Other",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Roots, Other",NA,"above ground residue","kg y-1",72713122.5
+"Nigeria",2018,"Roots, Other",NA,"below ground residue","kg y-1",14542624.5
+"Nigeria",2018,"Roots, Other",NA,"total residue burned","kg y-1",18178280.625
+"Nigeria",2018,"Roots, Other",NA,"yield","kg ha-1 y-1",211.276821806576
+"Nigeria",2018,"Roots, Other",NA,"land area","ha",15643428
+"Nigeria",2018,"Roots, Other",NA,"N surplus","kg N y-1",-32.3123072918944
+"Nigeria",2018,"Roots, Other",NA,"NUE","fraction",2.48394771887067
+"Nigeria",2018,"Roots, Other",NA,"ymax","kg N y-1",-38054.775193777
+"Nigeria",2018,"Rye and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Rye and products",NA,"above ground residue","kg y-1",880
+"Nigeria",2018,"Rye and products",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Rye and products",NA,"total residue burned","kg y-1",220
+"Nigeria",2018,"Rye and products",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Rye and products",NA,"land area","ha",0
+"Nigeria",2018,"Rye and products",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Rye and products",NA,"NUE","fraction",NA
+"Nigeria",2018,"Rye and products",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Sesame seed",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Sesame seed",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Sesame seed",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Sesame seed",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Sesame seed",NA,"yield","kg ha-1 y-1",692.60958198559
+"Nigeria",2018,"Sesame seed",NA,"land area","ha",693134
+"Nigeria",2018,"Sesame seed",NA,"N surplus","kg N y-1",-1939.6957770926
+"Nigeria",2018,"Sesame seed",NA,"NUE","fraction",90.0808291007341
+"Nigeria",2018,"Sesame seed",NA,"ymax","kg N y-1",-82844700.9683999
+"Nigeria",2018,"Sesameseed Oil",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Sesameseed Oil",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Sesameseed Oil",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Sesameseed Oil",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Sesameseed Oil",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Sesameseed Oil",NA,"land area","ha",0
+"Nigeria",2018,"Sesameseed Oil",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Sesameseed Oil",NA,"NUE","fraction",NA
+"Nigeria",2018,"Sesameseed Oil",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Sorghum and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Sorghum and products",NA,"above ground residue","kg y-1",5212592969.30758
+"Nigeria",2018,"Sorghum and products",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Sorghum and products",NA,"total residue burned","kg y-1",1303148242.32689
+"Nigeria",2018,"Sorghum and products",NA,"yield","kg ha-1 y-1",1189.31090917226
+"Nigeria",2018,"Sorghum and products",NA,"land area","ha",5596102
+"Nigeria",2018,"Sorghum and products",NA,"N surplus","kg N y-1",-1900.15187013179
+"Nigeria",2018,"Sorghum and products",NA,"NUE","fraction",88.2647690465995
+"Nigeria",2018,"Sorghum and products",NA,"ymax","kg N y-1",-79519646.7700719
+"Nigeria",2018,"Soyabean Oil",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Soyabean Oil",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Soyabean Oil",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Soyabean Oil",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Soyabean Oil",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Soyabean Oil",NA,"land area","ha",0
+"Nigeria",2018,"Soyabean Oil",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Soyabean Oil",NA,"NUE","fraction",NA
+"Nigeria",2018,"Soyabean Oil",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Soyabeans",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Soyabeans",NA,"above ground residue","kg y-1",494649947.625
+"Nigeria",2018,"Soyabeans",NA,"below ground residue","kg y-1",93983490.04875
+"Nigeria",2018,"Soyabeans",NA,"total residue burned","kg y-1",123662486.90625
+"Nigeria",2018,"Soyabeans",NA,"yield","kg ha-1 y-1",839.322076004917
+"Nigeria",2018,"Soyabeans",NA,"land area","ha",696376
+"Nigeria",2018,"Soyabeans",NA,"N surplus","kg N y-1",-5081.30366301931
+"Nigeria",2018,"Soyabeans",NA,"NUE","fraction",234.359658024737
+"Nigeria",2018,"Soyabeans",NA,"ymax","kg N y-1",-564620633.205963
+"Nigeria",2018,"Sugar (Raw Equivalent)",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Sugar (Raw Equivalent)",NA,"above ground residue","kg y-1",2708048.00000013
+"Nigeria",2018,"Sugar (Raw Equivalent)",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Sugar (Raw Equivalent)",NA,"total residue burned","kg y-1",677012.000000031
+"Nigeria",2018,"Sugar (Raw Equivalent)",NA,"yield","kg ha-1 y-1",Inf
+"Nigeria",2018,"Sugar (Raw Equivalent)",NA,"land area","ha",0
+"Nigeria",2018,"Sugar (Raw Equivalent)",NA,"N surplus","kg N y-1",-Inf
+"Nigeria",2018,"Sugar (Raw Equivalent)",NA,"NUE","fraction",Inf
+"Nigeria",2018,"Sugar (Raw Equivalent)",NA,"ymax","kg N y-1",-Inf
+"Nigeria",2018,"Sugar beet",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Sugar beet",NA,"above ground residue","kg y-1",1060
+"Nigeria",2018,"Sugar beet",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Sugar beet",NA,"total residue burned","kg y-1",265
+"Nigeria",2018,"Sugar beet",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Sugar beet",NA,"land area","ha",0
+"Nigeria",2018,"Sugar beet",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Sugar beet",NA,"NUE","fraction",NA
+"Nigeria",2018,"Sugar beet",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Sugar cane",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Sugar cane",NA,"above ground residue","kg y-1",117555200
+"Nigeria",2018,"Sugar cane",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Sugar cane",NA,"total residue burned","kg y-1",29388800
+"Nigeria",2018,"Sugar cane",NA,"yield","kg ha-1 y-1",15424.7689811658
+"Nigeria",2018,"Sugar cane",NA,"land area","ha",85058
+"Nigeria",2018,"Sugar cane",NA,"N surplus","kg N y-1",-471.818048306716
+"Nigeria",2018,"Sugar cane",NA,"NUE","fraction",22.6683169722888
+"Nigeria",2018,"Sugar cane",NA,"ymax","kg N y-1",-5070987.80573957
+"Nigeria",2018,"Sunflower seed",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Sunflower seed",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Sunflower seed",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Sunflower seed",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Sunflower seed",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Sunflower seed",NA,"land area","ha",0
+"Nigeria",2018,"Sunflower seed",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Sunflower seed",NA,"NUE","fraction",NA
+"Nigeria",2018,"Sunflower seed",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Sunflowerseed Oil",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Sunflowerseed Oil",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Sunflowerseed Oil",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Sunflowerseed Oil",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Sunflowerseed Oil",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Sunflowerseed Oil",NA,"land area","ha",0
+"Nigeria",2018,"Sunflowerseed Oil",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Sunflowerseed Oil",NA,"NUE","fraction",NA
+"Nigeria",2018,"Sunflowerseed Oil",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Sweet potatoes",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Sweet potatoes",NA,"above ground residue","kg y-1",88654762.5000002
+"Nigeria",2018,"Sweet potatoes",NA,"below ground residue","kg y-1",17730952.5
+"Nigeria",2018,"Sweet potatoes",NA,"total residue burned","kg y-1",22163690.625
+"Nigeria",2018,"Sweet potatoes",NA,"yield","kg ha-1 y-1",2427.78410706626
+"Nigeria",2018,"Sweet potatoes",NA,"land area","ha",1659832
+"Nigeria",2018,"Sweet potatoes",NA,"N surplus","kg N y-1",-250.137260900832
+"Nigeria",2018,"Sweet potatoes",NA,"NUE","fraction",12.4875924633046
+"Nigeria",2018,"Sweet potatoes",NA,"ymax","kg N y-1",-1481002.6868083
+"Nigeria",2018,"Tea (including mate)",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Tea (including mate)",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Tea (including mate)",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Tea (including mate)",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Tea (including mate)",NA,"yield","kg ha-1 y-1",NA
+"Nigeria",2018,"Tea (including mate)",NA,"land area","ha",0
+"Nigeria",2018,"Tea (including mate)",NA,"N surplus","kg N y-1",NA
+"Nigeria",2018,"Tea (including mate)",NA,"NUE","fraction",NA
+"Nigeria",2018,"Tea (including mate)",NA,"ymax","kg N y-1",NA
+"Nigeria",2018,"Tomatoes and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Tomatoes and products",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Tomatoes and products",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Tomatoes and products",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Tomatoes and products",NA,"yield","kg ha-1 y-1",4634.39169104089
+"Nigeria",2018,"Tomatoes and products",NA,"land area","ha",754896
+"Nigeria",2018,"Tomatoes and products",NA,"N surplus","kg N y-1",-627.040277655136
+"Nigeria",2018,"Tomatoes and products",NA,"NUE","fraction",29.7969219053506
+"Nigeria",2018,"Tomatoes and products",NA,"ymax","kg N y-1",-8858609.96888141
+"Nigeria",2018,"Vegetables, Other",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Vegetables, Other",NA,"above ground residue","kg y-1",0
+"Nigeria",2018,"Vegetables, Other",NA,"below ground residue","kg y-1",0
+"Nigeria",2018,"Vegetables, Other",NA,"total residue burned","kg y-1",0
+"Nigeria",2018,"Vegetables, Other",NA,"yield","kg ha-1 y-1",15083.4623323014
+"Nigeria",2018,"Vegetables, Other",NA,"land area","ha",765510
+"Nigeria",2018,"Vegetables, Other",NA,"N surplus","kg N y-1",-3356.92100334491
+"Nigeria",2018,"Vegetables, Other",NA,"NUE","fraction",155.167117202193
+"Nigeria",2018,"Vegetables, Other",NA,"ymax","kg N y-1",-246967356.171176
+"Nigeria",2018,"Wheat and products",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Wheat and products",NA,"above ground residue","kg y-1",74778342.1125927
+"Nigeria",2018,"Wheat and products",NA,"below ground residue","kg y-1",448670.052675556
+"Nigeria",2018,"Wheat and products",NA,"total residue burned","kg y-1",18694585.5281482
+"Nigeria",2018,"Wheat and products",NA,"yield","kg ha-1 y-1",990.254503648452
+"Nigeria",2018,"Wheat and products",NA,"land area","ha",56190
+"Nigeria",2018,"Wheat and products",NA,"N surplus","kg N y-1",-1911.20223203119
+"Nigeria",2018,"Wheat and products",NA,"NUE","fraction",88.7722586289798
+"Nigeria",2018,"Wheat and products",NA,"ymax","kg N y-1",-80441961.7621179
+"Nigeria",2018,"Yams",NA,"residue fuel","kg y-1",0
+"Nigeria",2018,"Yams",NA,"above ground residue","kg y-1",674875782.499999
+"Nigeria",2018,"Yams",NA,"below ground residue","kg y-1",134975156.5
+"Nigeria",2018,"Yams",NA,"total residue burned","kg y-1",168718945.625
+"Nigeria",2018,"Yams",NA,"yield","kg ha-1 y-1",5055.53947345868
+"Nigeria",2018,"Yams",NA,"land area","ha",6067824
+"Nigeria",2018,"Yams",NA,"N surplus","kg N y-1",-1029.77765138882
+"Nigeria",2018,"Yams",NA,"NUE","fraction",48.2926981944669
+"Nigeria",2018,"Yams",NA,"ymax","kg N y-1",-23578907.1810258
+"Nigeria",2018,"GRAINSIL",NA,"yield","kg ha-1 y-1",9017.30095104537
+"Nigeria",2018,"GRAINSIL",NA,"land area","ha",325463.223907883
+"Nigeria",2018,"GRAINSIL",NA,"N surplus","kg N y-1",3.73995718849833
+"Nigeria",2018,"MAIZESIL",NA,"yield","kg ha-1 y-1",9017.30095104537
+"Nigeria",2018,"MAIZESIL",NA,"land area","ha",320105.121352546
+"Nigeria",2018,"MAIZESIL",NA,"N surplus","kg N y-1",3.73995718849833
+"Nigeria",2018,"FDDRBEET",NA,"yield","kg ha-1 y-1",8670.48168369748
+"Nigeria",2018,"FDDRBEET",NA,"land area","ha",337546.24056955
+"Nigeria",2018,"FDDRBEET",NA,"N surplus","kg N y-1",3.73995718849833
+"Nigeria",2018,"grassland",NA,"N surplus","kg N y-1",41.2888683892382
